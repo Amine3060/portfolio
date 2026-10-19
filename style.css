@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #222;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header,
+footer {
+    padding: 15px 30px;
+    background-color: #e5e5e5;
+}
+
+.petit-nom {
+    margin: 0 0 10px;
+    font-weight: bold;
+}
+
+nav a {
+    margin-right: 15px;
+}
+
+a {
+    color: #245b80;
+}
+
+main {
+    width: 90%;
+    max-width: 900px;
+    margin: 30px auto;
+}
+
+h1,
+h2,
+h3 {
+    color: #333;
+}
+
+#accueil {
+    text-align: center;
+}
+
+.photo-profil {
+    width: 200px;
+    border-radius: 50%;
+}
+
+#accueil h1 {
+    margin: 15px 0;
+    font-size: 36px;
+}
+
+.carte {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
